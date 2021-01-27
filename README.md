@@ -1,2 +1,0 @@
-# ngetest-api
-ngetest daong
